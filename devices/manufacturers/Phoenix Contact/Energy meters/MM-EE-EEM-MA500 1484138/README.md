@@ -8,7 +8,7 @@ Código do artigo: 1484138
 ## Ligação Elétrica
 
 Keeper         Phoenix
-A <-----------> A
+A <-----------> A <br/>
 B <-----------> B
 
 
