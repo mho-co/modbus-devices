@@ -1,18 +1,18 @@
 # MM-EE-EEM-MA500
 
+Multimedidor de energia Phoenix Contact.
+
 Código do artigo: 1484138
 
-[Phoenix Contact](https://www.phoenixcontact.com/pt-br/produtos/equipamento-de-medicao-mm-ee-eem-ma500-1484138)
+[Website Phoenix Contact](https://www.phoenixcontact.com/pt-br/produtos/equipamento-de-medicao-mm-ee-eem-ma500-1484138)
 
 
 ## Ligação Elétrica
-Direta.
 
-Keeper         Phoenix <br/>
+Keeper........Phoenix <br/>
 A <-----------> A <br/>
 B <-----------> B
 
-<br/>
 <br/>
 
 ## Método de leitura
