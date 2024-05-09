@@ -15,6 +15,12 @@ B <-----------> B
 
 <br/>
 
+
+## Configurações Extras
+O equipamento possui um modo gateway, para funcionar com o keeper esse modo deve ser desativado. Quando o modo gateway está ativado o medidor se comporta como um server na porta RS485.
+
+<br/>
+
 ## Método de leitura
 Necessário deslocar um endereço para cima (+1). Sem necessidade de alterar formato de leitura.
 - Byte-swap: `não`;

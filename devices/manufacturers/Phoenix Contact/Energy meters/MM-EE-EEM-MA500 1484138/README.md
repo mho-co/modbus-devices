@@ -1,5 +1,7 @@
 # MM-EE-EEM-MA500
 
+![artigo](https://caas.phoenixcontact.com/caas/v1/stable/media/252616/full/b408?format=jpg)
+
 Multimedidor de energia Phoenix Contact.
 
 Código do artigo: 1484138
