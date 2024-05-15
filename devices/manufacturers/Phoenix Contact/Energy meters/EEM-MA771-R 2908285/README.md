@@ -1,5 +1,8 @@
 # EEM-MA771-R
 
+
+![artigo](https://caas.phoenixcontact.com/caas/v1/stable/media/250980/full/b408?format=jpg)
+
 Multimedidor de energia Phoenix Contact.
 
 Código do artigo: 2908285
