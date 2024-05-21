@@ -1,7 +1,7 @@
 # Modbus Devices
 Repositório com documentação e arquivos padronizados para leitura de arquivos modbus em equipamentos comerciais de diversos fabricantes. O objetivo deste repositório é centralizar manuais de modbus e resumir os parâmetros de comunicação necessários para estabelecer a comunicação. 
 
-Os parâmetros de comunicação (endereços e formato dos dados) são baseados na documentação do (modbus.org)[https://modbus.org] e definidos como sendo normal quando os dados estão dispostos no formato big-endian e começam no endereço 0. As definições são as mesmas interpretadas pelo software modbus poll por exemplo. 
+Os parâmetros de comunicação (endereços e formato dos dados) são baseados na documentação do [modbus.org](https://modbus.org) e definidos como sendo normal quando os dados estão dispostos no formato big-endian e começam no endereço 0. As definições são as mesmas interpretadas pelo software modbus poll por exemplo. 
 
 Equipamentos listados:
 - Medidores de energia;
@@ -13,7 +13,7 @@ Equipamentos listados:
 <br>
 
 ## Linha MHO Keeper
-Para maiores informações consultar base de conhecimento (docs.mhoeng.com)[https://docs.mhoeng.com/docs/2keeper/config_adv/config_modbus_rtu/ligacoes]
+Para maiores informações consultar base de conhecimento [docs.mhoeng.com](https://docs.mhoeng.com/docs/2keeper/config_adv/config_modbus_rtu/ligacoes)
 ### Ligações Fisicas
 - A: Positivo da comunicação, deve ser conectado com os outros positivos da rede;
 - B: Negativo da comunicação, deve ser conectado com os outros negativos da rede;
