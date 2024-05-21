@@ -1,7 +1,6 @@
 # Modbus Devices
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/mho-co/modbus-devices/README-en.md)
-
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/mho-co/modbus-devices/blob/master/README.en.md)
 
 Repositório com documentação e arquivos padronizados para leitura de arquivos modbus em equipamentos comerciais de diversos fabricantes. O objetivo deste repositório é centralizar manuais de modbus e resumir os parâmetros de comunicação necessários para estabelecer a comunicação. 
 
