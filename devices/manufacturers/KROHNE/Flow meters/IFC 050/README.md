@@ -1,14 +1,14 @@
-# EM1
+# IFC 050
 
 
-![artigo](https://www.conaut.com.br/templates/yootheme/cache/4a/conversor-de-sinais-ifc-050-krohne-conaut-4adf7189.webp)
+![artigo](https://dam.krohne.com/image/upload/t_ar43_pd_c/c_scale,w_960/q_auto/dpr_2.0/d_im-other:image-not-available.png/f_auto/v1/im-single-product/ifc-050?_a=ATAPpAA0)
 
 Conversor de sinais IFC 050. Conversor de fluxo eletromagnético para combinação com sensores de fluxo OPTIFLUX e WATERFLUX.
 
 
 Código do artigo: IFC 050
 
-[Website CONAULT](https://www.conaut.com.br/produtos/medidor-de-vazao/medidores-de-vazao-eletromagneticos/item/medidores-eletromagneticos-de-vazao-conversor-de-sinais-ifc-050)
+[Website KHRONE](https://krohne.com/en/products/flow-measurement/components-and-peripheral-equipment-for-flow-measurement/signal-converters/ifc-050)
 
 
 ## Ligação Elétrica
@@ -21,9 +21,6 @@ B   <-----------> B- <br/>
 
 <br/>
 
-
-## Configurações Extras
-Para entrar no modo de configuração é necessário inserir a senha. A senha padrão de fábrica é 1000.
 
 <br/>
 
