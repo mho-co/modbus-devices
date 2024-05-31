@@ -1,20 +1,20 @@
-# YFH-4
+# YTS-61
 
 
-![artigo](https://yateks.com/wp-content/uploads/2021/03/Oil-Particle-Counter-Sensor1.png)
+![artigo](https://yateks.com/wp-content/uploads/2020/09/YTS-61-6in1-Oil-condition-sensor-1.jpg)
 
 Contador de partículas.
 
-Código do artigo: YFJ-4
+Código do artigo: YTS-61
 
-[Website Yateks](https://yateks.com/product/yfj-4-online-particle-counter-sensor/)
+[Website Yateks](https://yateks.com/product/yts61-6-in-1-oil-condition-sensor/)
 
 
 ## Ligação Elétrica
 
-Keeper........YFJ-4 <br/>
-A   <-----------> RS485+ <br/>
-B   <-----------> RS485- <br/>
+Keeper........YTS-61 <br/>
+A   <-----------> RS485+/A <br/>
+B   <-----------> RS485-/B <br/>
 
 
 <br/>
