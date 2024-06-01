@@ -1,21 +1,15 @@
 [
-    {
-      "polling": 500,
-      "timeout": 250,
-      "version": 1
-    },
-    {
-      "fc": 4,
-      "sv": 1,
-      "add": 0,
-      "dt": 4,
-      "qnt": 5
-    },
-    {
-      "fc": 4,
-      "sv": 1,
-      "add": 1,
-      "dt": 4,
-      "qnt": 6
-    }
-  ]
+  {
+    "polling": 1000,
+    "timeout": 500,
+    "version": 1
+  },
+  {
+    "fc": 3,
+    "sv": 1,
+    "add": 0,
+    "dt": 4,
+    "qnt": 6,
+    "t": 5
+  }
+]
