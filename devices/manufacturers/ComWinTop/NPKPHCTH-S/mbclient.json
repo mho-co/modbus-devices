@@ -1,1 +1,1 @@
-[ { "polling": 500, "timeout": 250, "version": 1 }, { "sv": 1, "fc": 3, "add": 0 , "qnt": 9}]
+{ "polling": 500, "timeout": 250, "version": 1 }, { "sv": 1, "fc": 3, "add": 1 , "qnt": 2}, { "sv": 1, "fc": 3, "add": 0 , "qnt": 2}
