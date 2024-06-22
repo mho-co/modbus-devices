@@ -1,7 +1,7 @@
 # XY-MD02
 
 
-![artigo](/product.png)
+![artigo](https://raw.githubusercontent.com/mho-co/modbus-devices/main/devices/manufacturers/nobrand/XY-MD02/product.png)
 
 
 Medidor de temperatura e umidade.
