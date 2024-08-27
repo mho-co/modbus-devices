@@ -16,6 +16,11 @@ B <-----------> B- <br/>
 
 <br/>
 
+## Configurações
+O equipamento tem as seguintes configurações default:
+- 8N1;
+- Endereço: 1.
+
 ## Método de leitura
 Sem necessidade de deslocar endereços. Sem necessidade de alterar formato de leitura.
 - Byte-swap: `não`;
