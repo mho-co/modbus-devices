@@ -1,4 +1,4 @@
-# EEM-EM355
+# WAVESHARE 8CH ANALOG OUTPUT
 
 ![artigo](https://www.waveshare.com/w/upload/b/b6/Modbus_RTU_Analog_Output_8CH-01.jpg)
 
