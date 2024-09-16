@@ -1,0 +1,15 @@
+[
+  {
+    "polling": 500,
+    "timeout": 250,
+    "version": 1
+  },
+  {
+    "fn": "link DC",
+    "sv": 1,
+    "t": 1,
+    "fc": 3,
+    "add": 111,
+    "bo": -1
+  }
+]
