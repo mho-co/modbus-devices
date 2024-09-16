@@ -1,0 +1,14 @@
+[
+  {
+    "polling": 500,
+    "timeout": 250,
+    "version": 1
+  },
+  {
+    "fn": "frequencia",
+    "sv": 1,
+    "t": 1,
+    "fc": 3,
+    "add": 5
+  }
+]

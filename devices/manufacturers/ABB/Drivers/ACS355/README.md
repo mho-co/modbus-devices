@@ -26,7 +26,7 @@ B <-----------> 3 / A- <br/>
 <br/>
 
 ## Método de comunicação
-Necessário deslocar um endereço para baixo (-1) (PLC base 1). Sem necessidade de alterar formato de leitura.
+Necessário deslocar um endereço para baixo (bo: -1) (Modbus poll: PLC base 1). Sem necessidade de alterar formato de leitura.
 - Byte-swap: `não`;
 - Word-swap: `não`;
 - DoubleWord-swap: `não`.
