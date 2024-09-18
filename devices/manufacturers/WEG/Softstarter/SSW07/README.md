@@ -4,7 +4,6 @@
 
 Softstarter SSW07
 
-### Não testado!
 
 [Website WEG](https://www.weg.net/catalog/weg/BR/pt/Automa%C3%A7%C3%A3o-e-Controle-Industrial/Drives/Soft-Starters/Uso-geral/Soft-Starter-SSW07/Soft-Starter-SSW07/p/MKT_WDC_BRAZIL_PRODUCT_SOFT_STARTERS_SSW07)
 
