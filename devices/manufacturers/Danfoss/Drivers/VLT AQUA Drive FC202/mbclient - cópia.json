@@ -1,0 +1,45 @@
+[
+  {
+    "polling": 500,
+    "timeout": 250,
+    "version": 1
+  },
+  {
+    "tobin":true,
+    "binA": "0000001101010000",
+    "fn": "VLT SW (trip, error, remoto, run)",
+    "sv": 1,
+    "fc": 3,
+    "add": 2910
+  },
+  {
+    "fn": "VLT REF",
+    "sv": 1,
+    "t": 0,
+    "fc": 3,
+    "add": 2911
+  },
+  {
+    "tobin":true,
+    "binA": "000000110010000",
+    "fn": "VLT CW (run, reset, data_valid)",
+    "sv": 1,
+    "fc": 6,
+    "add": 2810
+  },
+  {
+    "fn": "VLT wREF",
+    "sv": 1,
+    "t": 0,
+    "fc": 6,
+    "add": 2811
+  },
+  {
+    "fn": "VLT (V, Php, I, RPM, kWh, Warning, Alarm)",
+    "sv": 1,
+    "t": 0,
+    "fc": 6,
+    "add": 2912,
+    "qnt": 7
+  }
+]
