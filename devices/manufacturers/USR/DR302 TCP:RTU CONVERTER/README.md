@@ -21,7 +21,9 @@ Para funcionar o Modbus TCP, basta configurarmos o conversor da seguinte forma:
 
 Na aba "Serial port"
 - Baud rate, data size, parity e stop bits. Configurar conforme definição da rede RS485;
-- Habilitar Modbus gateway;
+- Caso o Keeper seja mestre, configurar como TCP Client, e definir o IP do server TCP que será requisitado pelo keeper;
+
+Na aba "Expand Function"
+- Habilitar Modbus TCP;
 
 
-- ~Work mode: TPC Client (caso o keeper seja client) ou TCP Server (caso o keeper seja server);~
