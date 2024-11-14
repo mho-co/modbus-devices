@@ -1,0 +1,14 @@
+[
+  {
+    "polling": 500,
+    "timeout": 250,
+    "version": 1
+  },
+  {
+    "fn": "Leitura",
+    "sv": 1,
+    "fc": 4,
+    "add": 0,
+    "qnt": 8
+  }
+]
