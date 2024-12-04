@@ -1,4 +1,4 @@
-# ACS380
+# SSW07
 
 ![artigo](https://static.weg.net/medias/images/h18/hb7/MKT_WDC_SOFTSTARTERSSW07_1200Wx1200H.jpg)
 

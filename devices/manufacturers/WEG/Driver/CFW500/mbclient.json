@@ -1,0 +1,35 @@
+[
+  {
+    "polling": 500,
+    "timeout": 250,
+    "version": 1
+  },
+  {
+    "fn": "cfw500 sw (run, rem, subtensao, falha)",
+    "sv": 1,
+    "fc": 3,
+    "add": 680,
+    "binA": "1011000100000000",
+    "tobin": true
+  },
+  {
+    "fn": "cfw500 corrente",
+    "sv":1,
+    "fc": 3,
+    "add": 3,
+    "qnt": 1
+  },
+  {
+    "fn": "cfw500 freq",
+    "sv": 1,
+    "fc": 3,
+    "add": 5
+  },
+  {
+    "fn": "cfw500 ult. falha",
+    "sv": 1,
+    "fc": 3,
+    "add": 50,
+    "oc": true
+  }
+]
