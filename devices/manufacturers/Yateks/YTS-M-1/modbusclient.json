@@ -1,0 +1,13 @@
+[
+  {
+    "polling": 1000,
+    "timeout": 500,
+    "version": 1
+  },
+  {
+    "sv": 5,
+    "qnt": 3,
+    "fc": 4,
+    "add": 0
+  }
+]
