@@ -1,0 +1,21 @@
+[
+  {
+    "polling": 500,
+    "timeout": 250,
+    "version": 1
+  },
+  {
+    "fn": "corrente",
+    "sv": 1,
+    "fc": 3,
+    "add": 24,
+    "dt": 4
+  },
+  {
+    "fn": "Vin (r s t)",
+    "sv": 1,
+    "fc": 3,
+    "add": 33,
+    "qnt": 3
+  }
+]
