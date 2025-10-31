@@ -1,4 +1,4 @@
-# WAVESHARE 8CH ANALOG OUTPUT
+# WAVESHARE 8CH ANALOG INPUT
 
 ![artigo](https://www.waveshare.com/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/m/o/modbus-rtu-analog-input-8ch-1.jpg)
 
@@ -21,7 +21,10 @@ O equipamento tem as seguintes configurações default:
 - 8N1;
 - Endereço: 1.
 
-Para alterar o endereço modbus, basta alterar o registrador 4000 utilizando a função 3 ou 6.
+Para alterar o endereço modbus, basta alterar o registrador 16384 utilizando a função 3 ou 6.
+
+Para configurar o modo de leitura: endereços 4096 (canal 1) a 4103 (canal 8). Com os possíveis valores:
+- 
 
 ## Método de leitura
 Sem necessidade de deslocar endereços. Sem necessidade de alterar formato de leitura.
